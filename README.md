@@ -1,4 +1,4 @@
-![QuantumWalk-Lab cover](assets/cover.png)
+![QuantumWalk-Lab cover](QuantumWalk-Lab%20cover.png)
 
 # QuantumWalk-Lab 🚶‍♂️⚛️
 
